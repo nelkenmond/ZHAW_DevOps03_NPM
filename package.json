@@ -1,0 +1,25 @@
+{
+  "name": "zhaw_devops03_npm",
+  "version": "1.0.0",
+  "description": "\"Das ist das DevOps-Projekt von Rosalia, Stefan und Alex\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nelkenmond/ZHAW_DevOps03_NPM.git"
+  },
+  "keywords": [
+    "\"DevOps\""
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nelkenmond/ZHAW_DevOps03_NPM/issues"
+  },
+  "homepage": "https://github.com/nelkenmond/ZHAW_DevOps03_NPM#readme",
+  "dependencies": {
+    "chart.js": "^2.9.3"
+  }
+}
